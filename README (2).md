@@ -1,5 +1,5 @@
 
-# 🧠 Mental Health Support Chatbot (Task 5)
+# 🧠 Mental Health Support Chatbot
 
 This project is a supportive chatbot built for mental wellness conversations. It uses a free, offline large language model (LLM) called **GODEL-v1_1-base-seq2seq** developed by Microsoft, which responds with empathy and encouragement.
 
@@ -51,5 +51,3 @@ This chatbot is **not a replacement for professional help**. It is designed for 
 - `README.md` – This documentation file
 
 ---
-
-Developed for **Task 5 – AI/ML Internship Project** (Prompt Engineering Chatbot)
